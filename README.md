@@ -37,9 +37,14 @@ pip3 install -r requirements.txt
 
 nano mainbot.py
 
+ctrl w
+
 updaterr = Updater(os.getenv('TOKEN-KEY'),use_context=True)
+
 ganti TOKEN-KEY nya
+
 ctrl x+y
+
 python mainbot.py
 ```
 
