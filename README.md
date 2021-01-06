@@ -29,7 +29,7 @@ sudo apt install python3
 
 sudo apt install python-pip
 
-git clone https://github.com/aceptriana/bot-telegram.git
+git clone https://github.com/INDOHACKER-XODE/Bot-Telegram
 
 cd bot-telegram
 
