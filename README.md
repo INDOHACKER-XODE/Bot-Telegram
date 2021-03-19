@@ -1,5 +1,7 @@
 ## bot-telegram
 
+https://img.shields.io/badge/Github-Shoto-blue.svg?style=for-the-badge&logo=github
+
 Bagi bagi bot telegram
 
 ## Fitur 
